@@ -1,4 +1,4 @@
-1. __Ex- AIML Based Research Intern__ at __Radyeus Data Management Systems Privatw Limited__
+1. __Ex- AIML Based Research Intern__ at __Radyeus Data Management Systems Private Limited__
 
 2. Led a team in the __Smart India Hackathon__, achieving __runner-up__ status for our solution to an __ISRO problem statement__. Our project was selected as one of the __top 3 all over India in round 1__, and I received college __funding to participate__ in the final event in __Ahmedabad__
 
