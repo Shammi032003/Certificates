@@ -8,10 +8,12 @@
 
 5. __National Coding Competition Finalist__: (Kodikon 3.0 national-level hackathon conducted in PES University)- Made it to __top 45 teams__ out of 3000 applicants.
 
-6. Made it to Top __30 Teams__ from 300 participating teams in __Evolve- IBM BNMIT National Level 36 Hour Hackathon__- 2023
+6.  __Delegate, Harvard Project for Asian and International Relations (HPAIR)__: Selected as a delegate for HPAIR, organized by Harvard University, focusing on international relations and global issues.Engaged in high-level discussions and workshops with global leaders and peers.Contributed to collaborative projects addressing complex challenges and developed strategic insights on international diplomacy.
+   
+7. Made it to Top __30 Teams__ from 300 participating teams in __Evolve- IBM BNMIT National Level 36 Hour Hackathon__- 2023
 
-7. Winners of __IEEE BNMIT Hackathon 2022__.
+8. Winners of __IEEE BNMIT Hackathon 2022__.
 
-8. First __Runner-up in BNMIT data science internship based Hackathon__
+9. First __Runner-up in BNMIT data science internship based Hackathon__
 
-9. Graduate in __Abacus__
+10. Graduate in __Abacus__
